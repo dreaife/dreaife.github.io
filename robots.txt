@@ -11,4 +11,3 @@ Disallow: /vendors/
 Disallow: /fancybox/
  
 Sitemap: https://dreaife.icu/sitemap.xml
-Sitemap: https://dreaife.icu/baidusitemap.xml
