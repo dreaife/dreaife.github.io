@@ -9,3 +9,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+
+sitemap: https://dreaife.icu/sitemap.xml
+sitemap: https://dreaife.icu/atom.xml
